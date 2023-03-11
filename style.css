@@ -1,0 +1,41 @@
+body{
+    background-color: rgba(27, 69, 77, 0.411);
+}
+
+#log{
+    border-radius: 30px;
+    margin-top: 8%;
+    width: 350px;
+    height: 670px; 
+}
+
+.position{
+    margin-left: 5%;
+    width: 85%;
+    
+}
+
+.ajuste{
+    margin-left: 7.5%;
+}
+
+#cadastro{
+    margin-left: 5%;
+    width: 30%;
+}
+
+.teste {
+    transition: all 0.3s ease; /* transição suave */
+  }
+  
+.teste:hover {
+    transform: scale(1.02); /* aumentar o tamanho em 20% */
+}
+
+.teste2 {
+    transition: all 0.3s ease; /* transição suave */
+  }
+  
+.teste2:hover {
+    transform: scale(1.15); /* aumentar o tamanho em 20% */
+}
